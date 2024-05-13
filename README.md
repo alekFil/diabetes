@@ -48,4 +48,4 @@ In progress.
 [Полина](https://t.me/Smolchonok)
 
 Руководитель проекта:
-[Денис](hhttps://t.me/Dakatov)
+[Денис](https://t.me/Dakatov)
