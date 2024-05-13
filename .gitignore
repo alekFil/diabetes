@@ -1,0 +1,7 @@
+data/*
+__pycache__/
+.venv/
+.vscode/
+task/
+archive/
+catboost_info/
